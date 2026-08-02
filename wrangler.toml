@@ -8,4 +8,4 @@ class_name = "AgentSession"
 
 [[migrations]]
 tag = "v1"
-new_classes = ["AgentSession"]
+new_sqlite_classes = ["AgentSession"]
